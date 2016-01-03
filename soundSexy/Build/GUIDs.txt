@@ -1,0 +1,5 @@
+{a3902719-ae97-41cf-92ed-29c9479f2406} event:/death/death
+{e2350ce1-2bc4-44fc-be74-c51c6f1a0d94} bus:/
+{a6b3c77d-c2a8-4821-89b1-6cfca74bd4a4} bus:/Reverb
+{229bbf69-98b9-4826-a1d8-3447d589c526} bank:/Master Bank
+{be366804-86d1-4fae-9b2f-415aaf9248cf} bank:/deathBank
